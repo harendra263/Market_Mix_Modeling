@@ -21,4 +21,4 @@ if __name__ == "__main__":
     pred = reg.predict(X_test)
 
     feat_importance = pd.Series(data=reg.feature_importances_, index=X.columns)
-    print(feat_importance.head)
+    print(feat_importance.head())
