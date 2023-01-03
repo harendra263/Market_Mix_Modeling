@@ -8,19 +8,19 @@ Generally, your output variable will be sales or conversions, but can also be th
 ## Analysis
 
 ### 1. Looking for Trend wrt columns
-![Trends]("/images/Trends.png")
+![Trends](/images/Trends.png)
 
 ### 2. Correlation Plot
-![correlation]("/images/correlation.png")
+![correlation](/images/correlation.png)
 
 ### 3. Feature Importance
-![Feature_Importance]("/images/Feature_Importance.png")
+![Feature_Importance](/images/Feature_Importance.png)
 
 
 ### 4. OLS MODEL
 It’s time to build our marketing mix model! Another way to refer to the model we’re building is an OLS model, short for ordinary least squares, which is a method used to estimate the parameters in a linear regression model. An OLS model is a type of regression model that is most commonly used when building marketing mix models.
 
-![OLS]("images/OLS/png")
+![OLS](images/OLS.png)
 
 1. .summary() provides us with an abundance of insights on our model. Going back to the output from .summary(), we can see a few areas to focus in on (you can reference these insights against the OLS regression results below):
 
